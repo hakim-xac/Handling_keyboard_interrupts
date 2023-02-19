@@ -137,11 +137,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Handling_keyboard_interrupts.cpp" />
-    <ClCompile Include="Interface.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="dos.h" />
-    <ClInclude Include="Interface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
